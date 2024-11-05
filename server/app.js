@@ -28,7 +28,7 @@ connectDB();
 
 //default route
 app.get("/", (req, res)=>{
-  res.json("Welcome to IAS University")
+  res.json("Welcome to Vignan University")
 })
 
 //routes
